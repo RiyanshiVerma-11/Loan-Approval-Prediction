@@ -38,7 +38,7 @@ It also includes **Exploratory Data Analysis (EDA)** tools for better understand
 ## 📁 Repository Structure
 Loan-Approval-Prediction/
 ├── loan_prediction.csv # Dataset
-├── app.py # Main Streamlit app
+├── loan_prediction.py # Main Streamlit app
 ├── README.md # Project README (this file)
 ├── requirements.txt # Python dependencies
 
@@ -123,4 +123,5 @@ This is part of my internship project. Feel free to explore, suggest improvement
 
 Specify the license here (e.g. MIT, GNU GPL, etc.), if you want to make it open.
 If you haven’t chosen one yet, you can include a placeholder like:
+
 Licensed under MIT License
