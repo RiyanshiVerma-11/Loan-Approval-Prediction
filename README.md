@@ -94,7 +94,7 @@ source venv/bin/activate # Mac / Linux
 pip install -r requirements.txt
 
 
-streamlit run app.py
+streamlit run loan_prediction.py
 
 
 ✅ Model Performance
@@ -125,3 +125,4 @@ Specify the license here (e.g. MIT, GNU GPL, etc.), if you want to make it open.
 If you haven’t chosen one yet, you can include a placeholder like:
 
 Licensed under MIT License
+
