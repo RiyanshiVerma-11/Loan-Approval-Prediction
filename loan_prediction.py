@@ -1,3 +1,4 @@
+# Redeploy Feb 2026
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -193,3 +194,4 @@ else:
             st.success(f"**Loan Approved ✅**\nConfidence: {proba*100:.1f}%")
         else:
             st.error(f"**Loan Not Approved ❌**\nConfidence: {(1-proba)*100:.1f}%")
+
